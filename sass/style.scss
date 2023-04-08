@@ -78,7 +78,7 @@ header {
 	.hero-img {
 		position: relative;
 		height: 100vh;
-		background-image: url('../img/header/playstation-1845880_640.jpg');
+		background-image: url('../img/header/header-img-small.jpg');
 		background-position: center;
 		background-size: cover;
 		background-attachment: fixed;
@@ -403,7 +403,7 @@ header {
 @media (min-width: 1200px) {
 	header {
 		.hero-img {
-			background-image: url('../img/header/playstation-1845880_1920.jpg');
+			background-image: url('../img/header/header-img-large.jpg');
 		}
 	}
 }

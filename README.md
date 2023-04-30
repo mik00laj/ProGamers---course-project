@@ -1,8 +1,8 @@
 # ProGamers---course-project
-Based on Bootstrap
+
 
 ## Description
-Simple project about games producent.
+Simple project about games producent based on Bootstrap.
 
 ## Technologies
 - HTML
